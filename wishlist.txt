@@ -1,5 +1,5 @@
-title: Generated Destiny 2 Wishlist
-description: Automated wishlist generated from spreadsheet data. Includes Union Rolls, Combinations, and Single Perks.
+title: MrCharles Wishlist
+description: Wishlist highlight Aegis recommended weapons with 1 or more matching perks
 
 // No Hesitation
 //notes:S-Tier. on-demand survivability on any class, Benevolence synergy. Origin: Dealer's Choice
