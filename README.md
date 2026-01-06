@@ -5,7 +5,7 @@ All data based off [Aegis](https://linktr.ee/TheAegisRelic)'s spreadsheets for [
 ## How to Use
 Copy this Link
 ```
-https://raw.githubusercontent.com/MrCharles/DIMAegisWeaponWishlist/main/wishlist.txt
+https://raw.githubusercontent.com/charlesxcaliber/DIMAegisWeaponWishlist/main/wishlist.txt
 ```
 In DIM go to Settings->Wish List
 Clear the wishlist of the current included rolls (If you want)
