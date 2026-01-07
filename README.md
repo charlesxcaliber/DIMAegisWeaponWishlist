@@ -9,6 +9,17 @@ Follow this [Link](https://charlesxcaliber.github.io/) to my website
 
 Follow the direction there to link to one of the wishlists
 
+## If webpage fails
+Use this link
+
+```
+https://raw.githubusercontent.com/charlesxcaliber/DIMAegisWeaponWishlist/main/MrCharlesWishlist_MRF_PPC0.txt
+```
+
+And simply replace MRF_PPC0 with MR{Minimum Rank}_PPC{Minimum Perks per Column}
+
+For example, if you wanted all B rated and above weapons with at least 1 perk in each column, you would do MRB_PPC1.txt. The rest of the link would stay the same.
+
 ## How the list works
 Unlike some other lists, the Base list includes all weapons and rolls.
 
