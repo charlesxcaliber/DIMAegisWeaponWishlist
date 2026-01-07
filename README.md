@@ -5,29 +5,9 @@ Your one stop shop for identifying optimal weapon rolls in Destiny Item Manager.
 All data based off [Aegis](https://linktr.ee/TheAegisRelic)'s spreadsheets for [PvE Endgame Analysis](https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit?usp=sharing).
 
 ## How to Use
-Copy a link from the list below, or suggest one for me to add
+Follow this [Link](https://charlesxcaliber.github.io/) to my website
 
-In DIM go to Settings->Wish List
-
-Clear the wishlist of the current included rolls (If you want)
-
-Under "Add another wish list" paste the link
-
-## Links
-All weapons with at least 1 recommended perk at all (Base)
-```
-https://raw.githubusercontent.com/charlesxcaliber/DIMAegisWeaponWishlist/main/StoF_1Perk_Wishlist.txt
-```
-
-All weapons with at least 1 recommended perk in each column
-```
-https://raw.githubusercontent.com/charlesxcaliber/DIMAegisWeaponWishlist/main/StoF_3Perk_Wishlist.txt
-```
-
-Only above B rating with at least 1 recommended perk in each column
-```
-https://raw.githubusercontent.com/charlesxcaliber/DIMAegisWeaponWishlist/main/StoB_3Perk_Wishlist.txt
-```
+Follow the direction there to link to one of the wishlists
 
 ## How the list works
 Unlike some other lists, the Base list includes all weapons and rolls.
