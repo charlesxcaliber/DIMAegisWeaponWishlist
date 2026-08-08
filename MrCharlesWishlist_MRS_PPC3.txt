@@ -257,7 +257,7 @@ dimwishlist:item=424291879&perks=839105230,776531651,657025441,2048641572,332449
 dimwishlist:item=424291879&perks=776531651,657025441,2048641572,3324494224
 
 // Reckless Oracle
-//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden Of Salvation
+//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden of Salvation
 dimwishlist:item=4158265643&perks=1840239774,839105230,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=4158265643&perks=1840239774,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=4158265643&perks=1840239774,839105230,1561002382,2048641572,3182497402,776531651,511914882
@@ -292,7 +292,7 @@ dimwishlist:item=4158265643&perks=839105230,2048641572,3182497402,776531651
 dimwishlist:item=4158265643&perks=2048641572,3182497402,776531651
 
 // Reckless Oracle
-//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden Of Salvation
+//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden of Salvation
 dimwishlist:item=1802315656&perks=1840239774,839105230,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=1802315656&perks=1840239774,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=1802315656&perks=1840239774,839105230,1561002382,2048641572,3182497402,776531651,511914882
@@ -327,7 +327,7 @@ dimwishlist:item=1802315656&perks=839105230,2048641572,3182497402,776531651
 dimwishlist:item=1802315656&perks=2048641572,3182497402,776531651
 
 // Reckless Oracle
-//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden Of Salvation
+//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden of Salvation
 dimwishlist:item=1992309064&perks=1840239774,839105230,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=1992309064&perks=1840239774,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=1992309064&perks=1840239774,839105230,1561002382,2048641572,3182497402,776531651,511914882
@@ -603,14 +603,14 @@ dimwishlist:item=1705843397&perks=1840239774,776531651
 dimwishlist:item=1705843397&perks=776531651
 
 // Modified B-7 Pistol
-//notes: Tier: S. Rank: 5. Aegis Note: strongest possible double splash stasis combo, great frame, solid origin. Origin Trait: Accelerated Assault. Source: Tharsis Outpost
+//notes: Tier: S. Rank: 5. Aegis Note: strongest possible double splash stasis combo, great frame, solid origin. Origin Trait: Accelerated Assault. Source: Renegades
 dimwishlist:item=3146657388&perks=1840239774,1080094173,3824105627,124408337,2922950962
 dimwishlist:item=3146657388&perks=1080094173,3824105627,124408337,2922950962
 dimwishlist:item=3146657388&perks=1840239774,3824105627,124408337,2922950962
 dimwishlist:item=3146657388&perks=3824105627,124408337,2922950962
 
 // Modified B-7 Pistol
-//notes: Tier: S. Rank: 5. Aegis Note: strongest possible double splash stasis combo, great frame, solid origin. Origin Trait: Accelerated Assault. Source: Tharsis Outpost
+//notes: Tier: S. Rank: 5. Aegis Note: strongest possible double splash stasis combo, great frame, solid origin. Origin Trait: Accelerated Assault. Source: Renegades
 dimwishlist:item=1872906663&perks=1840239774,1080094173,3824105627,124408337,2922950962,3713579091
 dimwishlist:item=1872906663&perks=1080094173,3824105627,124408337,2922950962,3713579091
 dimwishlist:item=1872906663&perks=1840239774,3824105627,124408337,2922950962,3713579091
@@ -2191,7 +2191,7 @@ dimwishlist:item=617566159&perks=3721627275,776531651,1683379515,3643424744,3201
 dimwishlist:item=617566159&perks=776531651,1683379515,3643424744,3201496230,1782407750,3108830275
 
 // Forthcoming Deviance
-//notes: Tier: S. Rank: 3. Aegis Note: basically just worse than top 2 glaives due to frame and origin. Origin Trait: Collective Purpose. Source: Savation's Edge
+//notes: Tier: S. Rank: 3. Aegis Note: basically just worse than top 2 glaives due to frame and origin. Origin Trait: Collective Purpose. Source: Salvation's Edge
 dimwishlist:item=3123651616&perks=580685494,1431678320,3721627275,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
 dimwishlist:item=3123651616&perks=580685494,1431678320,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
 dimwishlist:item=3123651616&perks=1431678320,3721627275,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
@@ -2210,7 +2210,7 @@ dimwishlist:item=3123651616&perks=3721627275,776531651,1683379515,1523832109,364
 dimwishlist:item=3123651616&perks=776531651,1683379515,1523832109,3640170453,1782407750,2048641572
 
 // Forthcoming Deviance
-//notes: Tier: S. Rank: 3. Aegis Note: basically just worse than top 2 glaives due to frame and origin. Origin Trait: Collective Purpose. Source: Savation's Edge
+//notes: Tier: S. Rank: 3. Aegis Note: basically just worse than top 2 glaives due to frame and origin. Origin Trait: Collective Purpose. Source: Salvation's Edge
 dimwishlist:item=535198113&perks=580685494,1431678320,3721627275,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
 dimwishlist:item=535198113&perks=580685494,1431678320,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
 dimwishlist:item=535198113&perks=1431678320,3721627275,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
@@ -2902,40 +2902,40 @@ dimwishlist:item=3690523502&perks=2396489472
 
 // Eyes Unveiled
 //notes: Tier: S. Rank: 1. Aegis Note: best linear by far; double damage option, FTTC + sustained, insane origin. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=4147428506&perks=1840239774,2680121939,1354429876,2305480722,1089671869,2396489472,816963252
-dimwishlist:item=4147428506&perks=2680121939,1354429876,2305480722,1089671869,2396489472,816963252
+dimwishlist:item=4147428506&perks=1840239774,1483536627,1354429876,2305480722,1089671869,2396489472,816963252
+dimwishlist:item=4147428506&perks=1483536627,1354429876,2305480722,1089671869,2396489472,816963252
 dimwishlist:item=4147428506&perks=1840239774,1354429876,2305480722,1089671869,2396489472,816963252
-dimwishlist:item=4147428506&perks=1840239774,2680121939,1354429876,2305480722,1089671869,2396489472
+dimwishlist:item=4147428506&perks=1840239774,1483536627,1354429876,2305480722,1089671869,2396489472
 dimwishlist:item=4147428506&perks=1354429876,2305480722,1089671869,2396489472,816963252
-dimwishlist:item=4147428506&perks=2680121939,1354429876,2305480722,1089671869,2396489472
+dimwishlist:item=4147428506&perks=1483536627,1354429876,2305480722,1089671869,2396489472
 dimwishlist:item=4147428506&perks=1840239774,1354429876,2305480722,1089671869,2396489472
 dimwishlist:item=4147428506&perks=1354429876,2305480722,1089671869,2396489472
 
 // Eyes Unveiled
 //notes: Tier: S. Rank: 1. Aegis Note: best linear by far; double damage option, FTTC + sustained, insane origin. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=615373993&perks=1840239774,2680121939,2396489472
-dimwishlist:item=615373993&perks=2680121939,2396489472
+dimwishlist:item=615373993&perks=1840239774,1483536627,2396489472
+dimwishlist:item=615373993&perks=1483536627,2396489472
 dimwishlist:item=615373993&perks=1840239774,2396489472
 dimwishlist:item=615373993&perks=2396489472
 
 // Eyes Unveiled
 //notes: Tier: S. Rank: 1. Aegis Note: best linear by far; double damage option, FTTC + sustained, insane origin. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=727781522&perks=1840239774,2680121939,2396489472
-dimwishlist:item=727781522&perks=2680121939,2396489472
+dimwishlist:item=727781522&perks=1840239774,1483536627,2396489472
+dimwishlist:item=727781522&perks=1483536627,2396489472
 dimwishlist:item=727781522&perks=1840239774,2396489472
 dimwishlist:item=727781522&perks=2396489472
 
 // Eyes Unveiled
 //notes: Tier: S. Rank: 1. Aegis Note: best linear by far; double damage option, FTTC + sustained, insane origin. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=4173311704&perks=1840239774,2680121939,2396489472
-dimwishlist:item=4173311704&perks=2680121939,2396489472
+dimwishlist:item=4173311704&perks=1840239774,1483536627,2396489472
+dimwishlist:item=4173311704&perks=1483536627,2396489472
 dimwishlist:item=4173311704&perks=1840239774,2396489472
 dimwishlist:item=4173311704&perks=2396489472
 
 // Eyes Unveiled
 //notes: Tier: S. Rank: 1. Aegis Note: best linear by far; double damage option, FTTC + sustained, insane origin. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=282549639&perks=1840239774,2680121939,2396489472
-dimwishlist:item=282549639&perks=2680121939,2396489472
+dimwishlist:item=282549639&perks=1840239774,1483536627,2396489472
+dimwishlist:item=282549639&perks=1483536627,2396489472
 dimwishlist:item=282549639&perks=1840239774,2396489472
 dimwishlist:item=282549639&perks=2396489472
 
@@ -4317,14 +4317,14 @@ dimwishlist:item=393652859&perks=269888150,2077819806,2890807135,3640170453,3764
 dimwishlist:item=393652859&perks=2077819806,2890807135,3640170453,3764420437,4293542123
 
 // Refurbished A499
-//notes: Tier: S. Rank: 1. Aegis Note: first of its kind; powerful archetype with mediocre 1st column. Origin Trait: Accelerated Assault. Source: Tharsis Outpost
+//notes: Tier: S. Rank: 1. Aegis Note: first of its kind; powerful archetype with mediocre 1st column. Origin Trait: Accelerated Assault. Source: Renegades
 dimwishlist:item=3661051060&perks=1840239774,3230963543,2579169598,2289534249,1365187766,3764420437,968510818
 dimwishlist:item=3661051060&perks=3230963543,2579169598,2289534249,1365187766,3764420437,968510818
 dimwishlist:item=3661051060&perks=1840239774,2579169598,2289534249,1365187766,3764420437,968510818
 dimwishlist:item=3661051060&perks=2579169598,2289534249,1365187766,3764420437,968510818
 
 // Refurbished A499
-//notes: Tier: S. Rank: 1. Aegis Note: first of its kind; powerful archetype with mediocre 1st column. Origin Trait: Accelerated Assault. Source: Tharsis Outpost
+//notes: Tier: S. Rank: 1. Aegis Note: first of its kind; powerful archetype with mediocre 1st column. Origin Trait: Accelerated Assault. Source: Renegades
 dimwishlist:item=593808239&perks=1840239774,3230963543,2579169598,2289534249,1365187766,3764420437,968510818,2697390518
 dimwishlist:item=593808239&perks=3230963543,2579169598,2289534249,1365187766,3764420437,968510818,2697390518
 dimwishlist:item=593808239&perks=1840239774,2579169598,2289534249,1365187766,3764420437,968510818,2697390518

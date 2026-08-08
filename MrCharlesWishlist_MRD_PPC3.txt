@@ -257,7 +257,7 @@ dimwishlist:item=424291879&perks=839105230,776531651,657025441,2048641572,332449
 dimwishlist:item=424291879&perks=776531651,657025441,2048641572,3324494224
 
 // Reckless Oracle
-//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden Of Salvation
+//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden of Salvation
 dimwishlist:item=4158265643&perks=1840239774,839105230,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=4158265643&perks=1840239774,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=4158265643&perks=1840239774,839105230,1561002382,2048641572,3182497402,776531651,511914882
@@ -292,7 +292,7 @@ dimwishlist:item=4158265643&perks=839105230,2048641572,3182497402,776531651
 dimwishlist:item=4158265643&perks=2048641572,3182497402,776531651
 
 // Reckless Oracle
-//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden Of Salvation
+//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden of Salvation
 dimwishlist:item=1802315656&perks=1840239774,839105230,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=1802315656&perks=1840239774,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=1802315656&perks=1840239774,839105230,1561002382,2048641572,3182497402,776531651,511914882
@@ -327,7 +327,7 @@ dimwishlist:item=1802315656&perks=839105230,2048641572,3182497402,776531651
 dimwishlist:item=1802315656&perks=2048641572,3182497402,776531651
 
 // Reckless Oracle
-//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden Of Salvation
+//notes: Tier: S. Rank: 9. Aegis Note: very solid void auto overall, not best archetype but has core perks. Origin Trait: Photoinhibition. Source: Garden of Salvation
 dimwishlist:item=1992309064&perks=1840239774,839105230,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=1992309064&perks=1840239774,1561002382,1431678320,2048641572,3182497402,776531651,511914882
 dimwishlist:item=1992309064&perks=1840239774,839105230,1561002382,2048641572,3182497402,776531651,511914882
@@ -626,8 +626,47 @@ dimwishlist:item=193009988&perks=1431678320,3966416502,3640170453,2173046394,243
 dimwishlist:item=193009988&perks=839105230,3966416502,3640170453,2173046394,243981275
 dimwishlist:item=193009988&perks=3966416502,3640170453,2173046394,243981275
 
+// Adamantite
+//notes: Tier: A. Rank: 16. Aegis Note: Physic is sadly useless, completely overshadowed by DECATUR, only good with Slice. Origin Trait: Heretical Behavior. Source: Pit of Heresy, Xur
+dimwishlist:item=2987244302&perks=202670084,3142289711,692399809,923806249,831391274,960997401
+dimwishlist:item=2987244302&perks=3142289711,692399809,923806249,831391274,960997401
+dimwishlist:item=2987244302&perks=202670084,692399809,923806249,831391274,960997401
+dimwishlist:item=2987244302&perks=692399809,923806249,831391274,960997401
+
+// Adamantite
+//notes: Tier: A. Rank: 16. Aegis Note: Physic is sadly useless, completely overshadowed by DECATUR, only good with Slice. Origin Trait: Heretical Behavior. Source: Pit of Heresy, Xur
+dimwishlist:item=3229982889&perks=202670084,3142289711,692399809,923806249,831391274,960997401
+dimwishlist:item=3229982889&perks=3142289711,692399809,923806249,831391274,960997401
+dimwishlist:item=3229982889&perks=202670084,692399809,923806249,831391274,960997401
+dimwishlist:item=3229982889&perks=692399809,923806249,831391274,960997401
+
+// Adamantite
+//notes: Tier: A. Rank: 16. Aegis Note: Physic is sadly useless, completely overshadowed by DECATUR, only good with Slice. Origin Trait: Heretical Behavior. Source: Pit of Heresy, Xur
+dimwishlist:item=621450049&perks=202670084,3142289711,692399809,3201496230,831391274,960997401,816963252
+dimwishlist:item=621450049&perks=3142289711,692399809,3201496230,831391274,960997401,816963252
+dimwishlist:item=621450049&perks=202670084,692399809,3201496230,831391274,960997401,816963252
+dimwishlist:item=621450049&perks=202670084,3142289711,692399809,3201496230,831391274,960997401
+dimwishlist:item=621450049&perks=692399809,3201496230,831391274,960997401,816963252
+dimwishlist:item=621450049&perks=3142289711,692399809,3201496230,831391274,960997401
+dimwishlist:item=621450049&perks=202670084,692399809,3201496230,831391274,960997401
+dimwishlist:item=621450049&perks=692399809,3201496230,831391274,960997401
+
+// Adamantite
+//notes: Tier: A. Rank: 16. Aegis Note: Physic is sadly useless, completely overshadowed by DECATUR, only good with Slice. Origin Trait: Heretical Behavior. Source: Pit of Heresy, Xur
+dimwishlist:item=3485029080&perks=202670084,3142289711,692399809,923806249,831391274,960997401
+dimwishlist:item=3485029080&perks=3142289711,692399809,923806249,831391274,960997401
+dimwishlist:item=3485029080&perks=202670084,692399809,923806249,831391274,960997401
+dimwishlist:item=3485029080&perks=692399809,923806249,831391274,960997401
+
+// Adamantite
+//notes: Tier: A. Rank: 16. Aegis Note: Physic is sadly useless, completely overshadowed by DECATUR, only good with Slice. Origin Trait: Heretical Behavior. Source: Pit of Heresy, Xur
+dimwishlist:item=601574723&perks=202670084,3142289711,692399809,923806249,831391274,960997401
+dimwishlist:item=601574723&perks=3142289711,692399809,923806249,831391274,960997401
+dimwishlist:item=601574723&perks=202670084,692399809,923806249,831391274,960997401
+dimwishlist:item=601574723&perks=692399809,923806249,831391274,960997401
+
 // Arctic Haze
-//notes: Tier: A. Rank: 16. Aegis Note: decent archetype and double solar splash, weaker than void options though. Origin Trait: Winterized Gear. Source: Europa
+//notes: Tier: A. Rank: 17. Aegis Note: decent archetype and double solar splash, weaker than void options though. Origin Trait: Winterized Gear. Source: Europa
 dimwishlist:item=2187337757&perks=1840239774,839105230,1431678320,4293542123,3017780555,2890807135,3425386926,1588586136
 dimwishlist:item=2187337757&perks=1840239774,1431678320,4293542123,3017780555,2890807135,3425386926,1588586136
 dimwishlist:item=2187337757&perks=839105230,1431678320,4293542123,3017780555,2890807135,3425386926,1588586136
@@ -646,7 +685,7 @@ dimwishlist:item=2187337757&perks=839105230,4293542123,3017780555,2890807135,342
 dimwishlist:item=2187337757&perks=4293542123,3017780555,2890807135,3425386926
 
 // The Ringing Nail
-//notes: Tier: A. Rank: 17. Aegis Note: worse damage profile than Arctic Haze but has better origin trait and breaker access. Origin Trait: Forge's Kin. Source: Arena Ops
+//notes: Tier: A. Rank: 18. Aegis Note: worse damage profile than Arctic Haze but has better origin trait and breaker access. Origin Trait: Forge's Kin. Source: Arena Ops
 dimwishlist:item=3326135421&perks=1840239774,839105230,1561002382,1431678320,4293542123,3017780555,2360347339,2890807135,3824105627,95528736,2327629476
 dimwishlist:item=3326135421&perks=1840239774,1561002382,1431678320,4293542123,3017780555,2360347339,2890807135,3824105627,95528736,2327629476
 dimwishlist:item=3326135421&perks=1840239774,839105230,1561002382,4293542123,3017780555,2360347339,2890807135,3824105627,95528736,2327629476
@@ -681,7 +720,7 @@ dimwishlist:item=3326135421&perks=839105230,4293542123,3017780555,2360347339,289
 dimwishlist:item=3326135421&perks=4293542123,3017780555,2360347339,2890807135,3824105627,95528736
 
 // The Ringing Nail
-//notes: Tier: A. Rank: 17. Aegis Note: worse damage profile than Arctic Haze but has better origin trait and breaker access. Origin Trait: Forge's Kin. Source: Arena Ops
+//notes: Tier: A. Rank: 18. Aegis Note: worse damage profile than Arctic Haze but has better origin trait and breaker access. Origin Trait: Forge's Kin. Source: Arena Ops
 dimwishlist:item=4206550094&perks=1840239774,839105230,1561002382,1431678320,4293542123,3017780555,2360347339,2890807135,3824105627,95528736,2327629476
 dimwishlist:item=4206550094&perks=1840239774,1561002382,1431678320,4293542123,3017780555,2360347339,2890807135,3824105627,95528736,2327629476
 dimwishlist:item=4206550094&perks=1840239774,839105230,1561002382,4293542123,3017780555,2360347339,2890807135,3824105627,95528736,2327629476
@@ -716,7 +755,7 @@ dimwishlist:item=4206550094&perks=839105230,4293542123,3017780555,2360347339,289
 dimwishlist:item=4206550094&perks=4293542123,3017780555,2360347339,2890807135,3824105627,95528736
 
 // Seventh Seraph Carbine
-//notes: Tier: A. Rank: 18. Aegis Note: Seraph Rounds access, solid kinetic combos, decent origin, alright frame. Origin Trait: Eyes Up. Source: Cosmodrome
+//notes: Tier: A. Rank: 19. Aegis Note: Seraph Rounds access, solid kinetic combos, decent origin, alright frame. Origin Trait: Eyes Up. Source: Cosmodrome
 dimwishlist:item=2560370239&perks=1840239774,839105230,1140096971,243981275,1517798362,3891536761,1202584452,3879154694
 dimwishlist:item=2560370239&perks=1840239774,1140096971,243981275,1517798362,3891536761,1202584452,3879154694
 dimwishlist:item=2560370239&perks=839105230,1140096971,243981275,1517798362,3891536761,1202584452,3879154694
@@ -735,7 +774,7 @@ dimwishlist:item=2560370239&perks=839105230,243981275,1517798362,3891536761,1202
 dimwishlist:item=2560370239&perks=243981275,1517798362,3891536761,1202584452
 
 // Chrysura Melo
-//notes: Tier: A. Rank: 19. Aegis Note: only legendary access to Amplified without subclass, also has double splash on decent frame. Origin Trait: Ignoble Deeds. Source: Shattered Throne
+//notes: Tier: A. Rank: 20. Aegis Note: only legendary access to Amplified without subclass, also has double splash on decent frame. Origin Trait: Ignoble Deeds. Source: Shattered Throne
 dimwishlist:item=1750388538&perks=202670084,3142289711,2980589453,3966416502,2173046394,243981275,3892542595
 dimwishlist:item=1750388538&perks=3142289711,2980589453,3966416502,2173046394,243981275,3892542595
 dimwishlist:item=1750388538&perks=202670084,2980589453,3966416502,2173046394,243981275,3892542595
@@ -746,7 +785,7 @@ dimwishlist:item=1750388538&perks=202670084,2980589453,3966416502,2173046394,243
 dimwishlist:item=1750388538&perks=2980589453,3966416502,2173046394,243981275
 
 // The Summoner
-//notes: Tier: A. Rank: 20. Aegis Note: lacks double splash but otherwise excellent all around for a solar auto. Origin Trait: Wild Card. Source: Trials
+//notes: Tier: A. Rank: 21. Aegis Note: lacks double splash but otherwise excellent all around for a solar auto. Origin Trait: Wild Card. Source: Trials
 dimwishlist:item=2884908760&perks=1840239774,839105230,1561002382,1431678320,3017780555,4293542123,2890807135,1050127423
 dimwishlist:item=2884908760&perks=1840239774,1561002382,1431678320,3017780555,4293542123,2890807135,1050127423
 dimwishlist:item=2884908760&perks=1840239774,839105230,1561002382,3017780555,4293542123,2890807135,1050127423
@@ -781,7 +820,7 @@ dimwishlist:item=2884908760&perks=839105230,3017780555,4293542123,2890807135
 dimwishlist:item=2884908760&perks=3017780555,4293542123,2890807135
 
 // The Summoner
-//notes: Tier: A. Rank: 20. Aegis Note: lacks double splash but otherwise excellent all around for a solar auto. Origin Trait: Wild Card. Source: Trials
+//notes: Tier: A. Rank: 21. Aegis Note: lacks double splash but otherwise excellent all around for a solar auto. Origin Trait: Wild Card. Source: Trials
 dimwishlist:item=1820994983&perks=1840239774,839105230,1561002382,1431678320,3017780555,4293542123,1050127423
 dimwishlist:item=1820994983&perks=1840239774,1561002382,1431678320,3017780555,4293542123,1050127423
 dimwishlist:item=1820994983&perks=1840239774,839105230,1561002382,3017780555,4293542123,1050127423
@@ -816,7 +855,7 @@ dimwishlist:item=1820994983&perks=839105230,3017780555,4293542123
 dimwishlist:item=1820994983&perks=3017780555,4293542123
 
 // The Summoner
-//notes: Tier: A. Rank: 20. Aegis Note: lacks double splash but otherwise excellent all around for a solar auto. Origin Trait: Wild Card. Source: Trials
+//notes: Tier: A. Rank: 21. Aegis Note: lacks double splash but otherwise excellent all around for a solar auto. Origin Trait: Wild Card. Source: Trials
 dimwishlist:item=1292594730&perks=1840239774,839105230,1561002382,1431678320,3017780555,4293542123,1050127423
 dimwishlist:item=1292594730&perks=1840239774,1561002382,1431678320,3017780555,4293542123,1050127423
 dimwishlist:item=1292594730&perks=1840239774,839105230,1561002382,3017780555,4293542123,1050127423
@@ -851,7 +890,7 @@ dimwishlist:item=1292594730&perks=839105230,3017780555,4293542123
 dimwishlist:item=1292594730&perks=3017780555,4293542123
 
 // Everburning Glitz
-//notes: Tier: A. Rank: 21. Aegis Note: decent orb generator, solid archetype, but definitely a downgrade from Scathelocke. Origin Trait: Fleet Footed. Source: Trials
+//notes: Tier: A. Rank: 22. Aegis Note: decent orb generator, solid archetype, but definitely a downgrade from Scathelocke. Origin Trait: Fleet Footed. Source: Trials
 dimwishlist:item=2857870254&perks=1840239774,839105230,1561002382,1431678320,243981275,2289534249,3891536761,1202584452,65797256
 dimwishlist:item=2857870254&perks=1840239774,1561002382,1431678320,243981275,2289534249,3891536761,1202584452,65797256
 dimwishlist:item=2857870254&perks=1840239774,839105230,1561002382,243981275,2289534249,3891536761,1202584452,65797256
@@ -886,7 +925,7 @@ dimwishlist:item=2857870254&perks=839105230,243981275,2289534249,3891536761,1202
 dimwishlist:item=2857870254&perks=243981275,2289534249,3891536761,1202584452
 
 // Origin Story
-//notes: Tier: B. Rank: 22. Aegis Note: classic AO + KT combo, decent archetype, alright origin. Origin Trait: Vanguard Determination. Source: Zavala
+//notes: Tier: B. Rank: 23. Aegis Note: classic AO + KT combo, decent archetype, alright origin. Origin Trait: Vanguard Determination. Source: Zavala
 dimwishlist:item=2188356726&perks=1840239774,839105230,1561002382,1431678320,243981275,3891536761,3846229553
 dimwishlist:item=2188356726&perks=1840239774,1561002382,1431678320,243981275,3891536761,3846229553
 dimwishlist:item=2188356726&perks=1840239774,839105230,1561002382,243981275,3891536761,3846229553
@@ -921,7 +960,7 @@ dimwishlist:item=2188356726&perks=839105230,243981275,3891536761
 dimwishlist:item=2188356726&perks=243981275,3891536761
 
 // Origin Story
-//notes: Tier: B. Rank: 22. Aegis Note: classic AO + KT combo, decent archetype, alright origin. Origin Trait: Vanguard Determination. Source: Zavala
+//notes: Tier: B. Rank: 23. Aegis Note: classic AO + KT combo, decent archetype, alright origin. Origin Trait: Vanguard Determination. Source: Zavala
 dimwishlist:item=2826850739&perks=1840239774,839105230,1561002382,1431678320,243981275,3891536761
 dimwishlist:item=2826850739&perks=1840239774,1561002382,1431678320,243981275,3891536761
 dimwishlist:item=2826850739&perks=1840239774,839105230,1561002382,243981275,3891536761
@@ -940,7 +979,7 @@ dimwishlist:item=2826850739&perks=839105230,243981275,3891536761
 dimwishlist:item=2826850739&perks=243981275,3891536761
 
 // Tigerspite
-//notes: Tier: B. Rank: 23. Aegis Note: similar to Chroma Rush with barrier access archetype, similar origin, High-Cal access. Origin Trait: Advanced Reflexes. Source: Dreaming City
+//notes: Tier: B. Rank: 24. Aegis Note: similar to Chroma Rush with barrier access archetype, similar origin, High-Cal access. Origin Trait: Advanced Reflexes. Source: Dreaming City
 dimwishlist:item=2465372924&perks=1840239774,839105230,1561002382,1431678320,3891536761,930692523
 dimwishlist:item=2465372924&perks=1840239774,1561002382,1431678320,3891536761,930692523
 dimwishlist:item=2465372924&perks=1840239774,839105230,1561002382,3891536761,930692523
@@ -975,7 +1014,7 @@ dimwishlist:item=2465372924&perks=839105230,3891536761
 dimwishlist:item=2465372924&perks=3891536761
 
 // Tigerspite
-//notes: Tier: B. Rank: 23. Aegis Note: similar to Chroma Rush with barrier access archetype, similar origin, High-Cal access. Origin Trait: Advanced Reflexes. Source: Dreaming City
+//notes: Tier: B. Rank: 24. Aegis Note: similar to Chroma Rush with barrier access archetype, similar origin, High-Cal access. Origin Trait: Advanced Reflexes. Source: Dreaming City
 dimwishlist:item=1709137958&perks=1840239774,839105230,1561002382,1431678320,2289534249,1517798362,3700496672,3891536761,930692523
 dimwishlist:item=1709137958&perks=1840239774,1561002382,1431678320,2289534249,1517798362,3700496672,3891536761,930692523
 dimwishlist:item=1709137958&perks=1840239774,839105230,1561002382,2289534249,1517798362,3700496672,3891536761,930692523
@@ -1010,7 +1049,7 @@ dimwishlist:item=1709137958&perks=839105230,2289534249,1517798362,3700496672,389
 dimwishlist:item=1709137958&perks=2289534249,1517798362,3700496672,3891536761
 
 // Chroma Rush
-//notes: Tier: B. Rank: 24. Aegis Note: decent archetype, mediocre origin, no Attrition Orbs, lacking some things. Origin Trait: Splicer Surge. Source: World, Banshee
+//notes: Tier: B. Rank: 25. Aegis Note: decent archetype, mediocre origin, no Attrition Orbs, lacking some things. Origin Trait: Splicer Surge. Source: World, Banshee
 dimwishlist:item=2598420927&perks=1840239774,839105230,1431678320,3891536761,3404929162
 dimwishlist:item=2598420927&perks=1840239774,1431678320,3891536761,3404929162
 dimwishlist:item=2598420927&perks=839105230,1431678320,3891536761,3404929162
@@ -1029,7 +1068,7 @@ dimwishlist:item=2598420927&perks=839105230,3891536761
 dimwishlist:item=2598420927&perks=3891536761
 
 // Chroma Rush
-//notes: Tier: B. Rank: 24. Aegis Note: decent archetype, mediocre origin, no Attrition Orbs, lacking some things. Origin Trait: Splicer Surge. Source: World, Banshee
+//notes: Tier: B. Rank: 25. Aegis Note: decent archetype, mediocre origin, no Attrition Orbs, lacking some things. Origin Trait: Splicer Surge. Source: World, Banshee
 dimwishlist:item=771811871&perks=1840239774,839105230,1431678320,2289534249,1517798362,3891536761,1202584452,3404929162
 dimwishlist:item=771811871&perks=1840239774,1431678320,2289534249,1517798362,3891536761,1202584452,3404929162
 dimwishlist:item=771811871&perks=839105230,1431678320,2289534249,1517798362,3891536761,1202584452,3404929162
@@ -1048,7 +1087,7 @@ dimwishlist:item=771811871&perks=839105230,2289534249,1517798362,3891536761,1202
 dimwishlist:item=771811871&perks=2289534249,1517798362,3891536761,1202584452
 
 // Zealous Ideal
-//notes: Tier: B. Rank: 25. Aegis Note: lacks double splash, archetype is okay, origin trait isn't that great. Origin Trait: Imperial Allegiance. Source: Equilibrium
+//notes: Tier: B. Rank: 26. Aegis Note: lacks double splash, archetype is okay, origin trait isn't that great. Origin Trait: Imperial Allegiance. Source: Equilibrium
 dimwishlist:item=1863583117&perks=1840239774,1080094173,3017780555,243981275,4293542123,2890807135,1164078247
 dimwishlist:item=1863583117&perks=1080094173,3017780555,243981275,4293542123,2890807135,1164078247
 dimwishlist:item=1863583117&perks=1840239774,3017780555,243981275,4293542123,2890807135,1164078247
@@ -1059,7 +1098,7 @@ dimwishlist:item=1863583117&perks=1840239774,3017780555,243981275,4293542123,289
 dimwishlist:item=1863583117&perks=3017780555,243981275,4293542123,2890807135
 
 // Ros Arago IV
-//notes: Tier: B. Rank: 26. Aegis Note: would be pretty good with Destabilizing access, good frame, great origin, artifact option. Origin Trait: Wild Card. Source: Banshee
+//notes: Tier: B. Rank: 27. Aegis Note: would be pretty good with Destabilizing access, good frame, great origin, artifact option. Origin Trait: Wild Card. Source: Banshee
 dimwishlist:item=3583275737&perks=1840239774,839105230,1431678320,776531651,95528736,243981275,2610012052,1050127423
 dimwishlist:item=3583275737&perks=1840239774,1431678320,776531651,95528736,243981275,2610012052,1050127423
 dimwishlist:item=3583275737&perks=839105230,1431678320,776531651,95528736,243981275,2610012052,1050127423
@@ -1076,45 +1115,6 @@ dimwishlist:item=3583275737&perks=1431678320,776531651,95528736,243981275,261001
 dimwishlist:item=3583275737&perks=1840239774,776531651,95528736,243981275,2610012052
 dimwishlist:item=3583275737&perks=839105230,776531651,95528736,243981275,2610012052
 dimwishlist:item=3583275737&perks=776531651,95528736,243981275,2610012052
-
-// Adamantite
-//notes: Tier: B. Rank: 27. Aegis Note: Physic is sadly useless, completely overshadowed by DECATUR, also no Slice any more. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=2987244302&perks=202670084,3142289711,692399809,923806249,831391274,960997401
-dimwishlist:item=2987244302&perks=3142289711,692399809,923806249,831391274,960997401
-dimwishlist:item=2987244302&perks=202670084,692399809,923806249,831391274,960997401
-dimwishlist:item=2987244302&perks=692399809,923806249,831391274,960997401
-
-// Adamantite
-//notes: Tier: B. Rank: 27. Aegis Note: Physic is sadly useless, completely overshadowed by DECATUR, also no Slice any more. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=3229982889&perks=202670084,3142289711,692399809,923806249,831391274,960997401
-dimwishlist:item=3229982889&perks=3142289711,692399809,923806249,831391274,960997401
-dimwishlist:item=3229982889&perks=202670084,692399809,923806249,831391274,960997401
-dimwishlist:item=3229982889&perks=692399809,923806249,831391274,960997401
-
-// Adamantite
-//notes: Tier: B. Rank: 27. Aegis Note: Physic is sadly useless, completely overshadowed by DECATUR, also no Slice any more. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=621450049&perks=202670084,3142289711,692399809,3201496230,831391274,960997401,816963252
-dimwishlist:item=621450049&perks=3142289711,692399809,3201496230,831391274,960997401,816963252
-dimwishlist:item=621450049&perks=202670084,692399809,3201496230,831391274,960997401,816963252
-dimwishlist:item=621450049&perks=202670084,3142289711,692399809,3201496230,831391274,960997401
-dimwishlist:item=621450049&perks=692399809,3201496230,831391274,960997401,816963252
-dimwishlist:item=621450049&perks=3142289711,692399809,3201496230,831391274,960997401
-dimwishlist:item=621450049&perks=202670084,692399809,3201496230,831391274,960997401
-dimwishlist:item=621450049&perks=692399809,3201496230,831391274,960997401
-
-// Adamantite
-//notes: Tier: B. Rank: 27. Aegis Note: Physic is sadly useless, completely overshadowed by DECATUR, also no Slice any more. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=3485029080&perks=202670084,3142289711,692399809,923806249,831391274,960997401
-dimwishlist:item=3485029080&perks=3142289711,692399809,923806249,831391274,960997401
-dimwishlist:item=3485029080&perks=202670084,692399809,923806249,831391274,960997401
-dimwishlist:item=3485029080&perks=692399809,923806249,831391274,960997401
-
-// Adamantite
-//notes: Tier: B. Rank: 27. Aegis Note: Physic is sadly useless, completely overshadowed by DECATUR, also no Slice any more. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=601574723&perks=202670084,3142289711,692399809,923806249,831391274,960997401
-dimwishlist:item=601574723&perks=3142289711,692399809,923806249,831391274,960997401
-dimwishlist:item=601574723&perks=202670084,692399809,923806249,831391274,960997401
-dimwishlist:item=601574723&perks=692399809,923806249,831391274,960997401
 
 // The Forward Path
 //notes: Tier: B. Rank: 28. Aegis Note: decent strand auto, best archetype, good origin, decent strand perks. Origin Trait: Skulking Wolf. Source: Iron Banner
@@ -1620,7 +1620,7 @@ dimwishlist:item=1056103557&perks=839105230,243981275,2173046394
 dimwishlist:item=1056103557&perks=243981275,2173046394
 
 // Sorrow's Verse
-//notes: Tier: C. Rank: 37. Aegis Note: best frame, no double splash, good origin. Origin Trait: Accelerated Assault. Source: Crucible Ops
+//notes: Tier: C. Rank: 37. Aegis Note: best frame, no double splash, good origin. Origin Trait: Accelerated Assault. Source: Crucible
 dimwishlist:item=2557966895&perks=1840239774,839105230,3230963543,1431678320,3713215006,3418782618,2173046394,3713579091
 dimwishlist:item=2557966895&perks=1840239774,3230963543,1431678320,3713215006,3418782618,2173046394,3713579091
 dimwishlist:item=2557966895&perks=1840239774,839105230,3230963543,3713215006,3418782618,2173046394,3713579091
@@ -1655,7 +1655,7 @@ dimwishlist:item=2557966895&perks=839105230,3713215006,3418782618,2173046394
 dimwishlist:item=2557966895&perks=3713215006,3418782618,2173046394
 
 // Sorrow's Verse
-//notes: Tier: C. Rank: 37. Aegis Note: best frame, no double splash, good origin. Origin Trait: Accelerated Assault. Source: Crucible Ops
+//notes: Tier: C. Rank: 37. Aegis Note: best frame, no double splash, good origin. Origin Trait: Accelerated Assault. Source: Crucible
 dimwishlist:item=775830132&perks=1840239774,839105230,3230963543,1431678320,3713215006,3418782618,2173046394
 dimwishlist:item=775830132&perks=1840239774,3230963543,1431678320,3713215006,3418782618,2173046394
 dimwishlist:item=775830132&perks=1840239774,839105230,3230963543,3713215006,3418782618,2173046394
@@ -3403,14 +3403,14 @@ dimwishlist:item=1705843397&perks=1840239774,776531651
 dimwishlist:item=1705843397&perks=776531651
 
 // Modified B-7 Pistol
-//notes: Tier: S. Rank: 5. Aegis Note: strongest possible double splash stasis combo, great frame, solid origin. Origin Trait: Accelerated Assault. Source: Tharsis Outpost
+//notes: Tier: S. Rank: 5. Aegis Note: strongest possible double splash stasis combo, great frame, solid origin. Origin Trait: Accelerated Assault. Source: Renegades
 dimwishlist:item=3146657388&perks=1840239774,1080094173,3824105627,124408337,2922950962
 dimwishlist:item=3146657388&perks=1080094173,3824105627,124408337,2922950962
 dimwishlist:item=3146657388&perks=1840239774,3824105627,124408337,2922950962
 dimwishlist:item=3146657388&perks=3824105627,124408337,2922950962
 
 // Modified B-7 Pistol
-//notes: Tier: S. Rank: 5. Aegis Note: strongest possible double splash stasis combo, great frame, solid origin. Origin Trait: Accelerated Assault. Source: Tharsis Outpost
+//notes: Tier: S. Rank: 5. Aegis Note: strongest possible double splash stasis combo, great frame, solid origin. Origin Trait: Accelerated Assault. Source: Renegades
 dimwishlist:item=1872906663&perks=1840239774,1080094173,3824105627,124408337,2922950962,3713579091
 dimwishlist:item=1872906663&perks=1080094173,3824105627,124408337,2922950962,3713579091
 dimwishlist:item=1872906663&perks=1840239774,3824105627,124408337,2922950962,3713579091
@@ -10313,7 +10313,7 @@ dimwishlist:item=1487476133&perks=839105230,776531651,2048641572,657025441,95528
 dimwishlist:item=1487476133&perks=776531651,2048641572,657025441,95528736,1464081238
 
 // No Survivors
-//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghost of the Deep
+//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghosts of the Deep
 dimwishlist:item=3262192268&perks=1840239774,839105230,1561002382,1431678320,4293542123,398661035
 dimwishlist:item=3262192268&perks=1840239774,1561002382,1431678320,4293542123,398661035
 dimwishlist:item=3262192268&perks=1840239774,839105230,1561002382,4293542123,398661035
@@ -10348,7 +10348,7 @@ dimwishlist:item=3262192268&perks=839105230,4293542123
 dimwishlist:item=3262192268&perks=4293542123
 
 // No Survivors
-//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghost of the Deep
+//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghosts of the Deep
 dimwishlist:item=3625452995&perks=1840239774,839105230,1561002382,1431678320,243981275,2890807135,3017780555,4293542123,398661035
 dimwishlist:item=3625452995&perks=1840239774,1561002382,1431678320,243981275,2890807135,3017780555,4293542123,398661035
 dimwishlist:item=3625452995&perks=1840239774,839105230,1561002382,243981275,2890807135,3017780555,4293542123,398661035
@@ -10383,7 +10383,7 @@ dimwishlist:item=3625452995&perks=839105230,243981275,2890807135,3017780555,4293
 dimwishlist:item=3625452995&perks=243981275,2890807135,3017780555,4293542123
 
 // No Survivors
-//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghost of the Deep
+//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghosts of the Deep
 dimwishlist:item=4193602194&perks=1840239774,839105230,1561002382,1431678320,243981275,3017780555,4293542123,398661035
 dimwishlist:item=4193602194&perks=1840239774,1561002382,1431678320,243981275,3017780555,4293542123,398661035
 dimwishlist:item=4193602194&perks=1840239774,839105230,1561002382,243981275,3017780555,4293542123,398661035
@@ -10418,7 +10418,7 @@ dimwishlist:item=4193602194&perks=839105230,243981275,3017780555,4293542123
 dimwishlist:item=4193602194&perks=243981275,3017780555,4293542123
 
 // No Survivors
-//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghost of the Deep
+//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghosts of the Deep
 dimwishlist:item=4228149269&perks=1840239774,839105230,1561002382,1431678320,243981275,3017780555,4293542123,398661035
 dimwishlist:item=4228149269&perks=1840239774,1561002382,1431678320,243981275,3017780555,4293542123,398661035
 dimwishlist:item=4228149269&perks=1840239774,839105230,1561002382,243981275,3017780555,4293542123,398661035
@@ -10453,7 +10453,7 @@ dimwishlist:item=4228149269&perks=839105230,243981275,3017780555,4293542123
 dimwishlist:item=4228149269&perks=243981275,3017780555,4293542123
 
 // No Survivors
-//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghost of the Deep
+//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghosts of the Deep
 dimwishlist:item=189194532&perks=1840239774,839105230,1561002382,1431678320,243981275,3017780555,4293542123,398661035
 dimwishlist:item=189194532&perks=1840239774,1561002382,1431678320,243981275,3017780555,4293542123,398661035
 dimwishlist:item=189194532&perks=1840239774,839105230,1561002382,243981275,3017780555,4293542123,398661035
@@ -10488,7 +10488,7 @@ dimwishlist:item=189194532&perks=839105230,243981275,3017780555,4293542123
 dimwishlist:item=189194532&perks=243981275,3017780555,4293542123
 
 // No Survivors
-//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghost of the Deep
+//notes: Tier: A. Rank: 12. Aegis Note: only SMG with Burning + Incandescent, otherwise origin isn't great and frame is suboptimal. Origin Trait: Restoration Ritual. Source: Ghosts of the Deep
 dimwishlist:item=1157220231&perks=1840239774,839105230,1561002382,1431678320,243981275,3017780555,4293542123,398661035
 dimwishlist:item=1157220231&perks=1840239774,1561002382,1431678320,243981275,3017780555,4293542123,398661035
 dimwishlist:item=1157220231&perks=1840239774,839105230,1561002382,243981275,3017780555,4293542123,398661035
@@ -12624,14 +12624,14 @@ dimwishlist:item=3850168899&perks=2869569095,3300816228
 
 // Lingering Dread
 //notes: Tier: B. Rank: 21. Aegis Note: also has Bipod, but unclear on usage, otherwise pretty decent blinding option. Origin Trait: Bitterspite. Source: Duality
-dimwishlist:item=1745368385&perks=3525010810,3032599245,3300816228,3978468247,2978966579,1439600632,2396489472,4154828211
-dimwishlist:item=1745368385&perks=3032599245,3300816228,3978468247,2978966579,1439600632,2396489472,4154828211
-dimwishlist:item=1745368385&perks=3525010810,3300816228,3978468247,2978966579,1439600632,2396489472,4154828211
-dimwishlist:item=1745368385&perks=3525010810,3032599245,3300816228,3978468247,2978966579,1439600632,2396489472
-dimwishlist:item=1745368385&perks=3300816228,3978468247,2978966579,1439600632,2396489472,4154828211
-dimwishlist:item=1745368385&perks=3032599245,3300816228,3978468247,2978966579,1439600632,2396489472
-dimwishlist:item=1745368385&perks=3525010810,3300816228,3978468247,2978966579,1439600632,2396489472
-dimwishlist:item=1745368385&perks=3300816228,3978468247,2978966579,1439600632,2396489472
+dimwishlist:item=1745368385&perks=3525010810,3032599245,3300816228,3978468247,1439600632,2978966579,2396489472,4154828211
+dimwishlist:item=1745368385&perks=3032599245,3300816228,3978468247,1439600632,2978966579,2396489472,4154828211
+dimwishlist:item=1745368385&perks=3525010810,3300816228,3978468247,1439600632,2978966579,2396489472,4154828211
+dimwishlist:item=1745368385&perks=3525010810,3032599245,3300816228,3978468247,1439600632,2978966579,2396489472
+dimwishlist:item=1745368385&perks=3300816228,3978468247,1439600632,2978966579,2396489472,4154828211
+dimwishlist:item=1745368385&perks=3032599245,3300816228,3978468247,1439600632,2978966579,2396489472
+dimwishlist:item=1745368385&perks=3525010810,3300816228,3978468247,1439600632,2978966579,2396489472
+dimwishlist:item=1745368385&perks=3300816228,3978468247,1439600632,2978966579,2396489472
 
 // Lingering Dread
 //notes: Tier: B. Rank: 21. Aegis Note: also has Bipod, but unclear on usage, otherwise pretty decent blinding option. Origin Trait: Bitterspite. Source: Duality
@@ -13918,7 +13918,7 @@ dimwishlist:item=861521336&perks=839105230,3978468247,2048641572
 dimwishlist:item=861521336&perks=3978468247,2048641572
 
 // Finite Maybe
-//notes: Tier: C. Rank: 29. Aegis Note: usable Discord option, solid perks and overflow, just awful frame. Origin Trait: Frame of Reference. Source: The Desert Perpetual
+//notes: Tier: C. Rank: 29. Aegis Note: usable Discord option, solid perks and overflow, just awful frame. Origin Trait: Frame of Reference. Source: Desert Perpetual
 dimwishlist:item=3241217409&perks=1840239774,839105230,689005463,1523832109,1556840489,4293542123,2594592626,3078487919,3978468247,2597494435
 dimwishlist:item=3241217409&perks=1840239774,689005463,1523832109,1556840489,4293542123,2594592626,3078487919,3978468247,2597494435
 dimwishlist:item=3241217409&perks=839105230,689005463,1523832109,1556840489,4293542123,2594592626,3078487919,3978468247,2597494435
@@ -14271,7 +14271,7 @@ dimwishlist:item=617566159&perks=3721627275,776531651,1683379515,3643424744,3201
 dimwishlist:item=617566159&perks=776531651,1683379515,3643424744,3201496230,1782407750,3108830275
 
 // Forthcoming Deviance
-//notes: Tier: S. Rank: 3. Aegis Note: basically just worse than top 2 glaives due to frame and origin. Origin Trait: Collective Purpose. Source: Savation's Edge
+//notes: Tier: S. Rank: 3. Aegis Note: basically just worse than top 2 glaives due to frame and origin. Origin Trait: Collective Purpose. Source: Salvation's Edge
 dimwishlist:item=3123651616&perks=580685494,1431678320,3721627275,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
 dimwishlist:item=3123651616&perks=580685494,1431678320,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
 dimwishlist:item=3123651616&perks=1431678320,3721627275,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
@@ -14290,7 +14290,7 @@ dimwishlist:item=3123651616&perks=3721627275,776531651,1683379515,1523832109,364
 dimwishlist:item=3123651616&perks=776531651,1683379515,1523832109,3640170453,1782407750,2048641572
 
 // Forthcoming Deviance
-//notes: Tier: S. Rank: 3. Aegis Note: basically just worse than top 2 glaives due to frame and origin. Origin Trait: Collective Purpose. Source: Savation's Edge
+//notes: Tier: S. Rank: 3. Aegis Note: basically just worse than top 2 glaives due to frame and origin. Origin Trait: Collective Purpose. Source: Salvation's Edge
 dimwishlist:item=535198113&perks=580685494,1431678320,3721627275,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
 dimwishlist:item=535198113&perks=580685494,1431678320,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
 dimwishlist:item=535198113&perks=1431678320,3721627275,776531651,1683379515,1523832109,3640170453,1782407750,2048641572,1878756191
@@ -17919,40 +17919,40 @@ dimwishlist:item=407621213&perks=2284787283,3425386926
 
 // Eyes Unveiled
 //notes: Tier: S. Rank: 1. Aegis Note: best linear by far; double damage option, FTTC + sustained, insane origin. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=4147428506&perks=1840239774,2680121939,1354429876,2305480722,1089671869,2396489472,816963252
-dimwishlist:item=4147428506&perks=2680121939,1354429876,2305480722,1089671869,2396489472,816963252
+dimwishlist:item=4147428506&perks=1840239774,1483536627,1354429876,2305480722,1089671869,2396489472,816963252
+dimwishlist:item=4147428506&perks=1483536627,1354429876,2305480722,1089671869,2396489472,816963252
 dimwishlist:item=4147428506&perks=1840239774,1354429876,2305480722,1089671869,2396489472,816963252
-dimwishlist:item=4147428506&perks=1840239774,2680121939,1354429876,2305480722,1089671869,2396489472
+dimwishlist:item=4147428506&perks=1840239774,1483536627,1354429876,2305480722,1089671869,2396489472
 dimwishlist:item=4147428506&perks=1354429876,2305480722,1089671869,2396489472,816963252
-dimwishlist:item=4147428506&perks=2680121939,1354429876,2305480722,1089671869,2396489472
+dimwishlist:item=4147428506&perks=1483536627,1354429876,2305480722,1089671869,2396489472
 dimwishlist:item=4147428506&perks=1840239774,1354429876,2305480722,1089671869,2396489472
 dimwishlist:item=4147428506&perks=1354429876,2305480722,1089671869,2396489472
 
 // Eyes Unveiled
 //notes: Tier: S. Rank: 1. Aegis Note: best linear by far; double damage option, FTTC + sustained, insane origin. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=615373993&perks=1840239774,2680121939,2396489472
-dimwishlist:item=615373993&perks=2680121939,2396489472
+dimwishlist:item=615373993&perks=1840239774,1483536627,2396489472
+dimwishlist:item=615373993&perks=1483536627,2396489472
 dimwishlist:item=615373993&perks=1840239774,2396489472
 dimwishlist:item=615373993&perks=2396489472
 
 // Eyes Unveiled
 //notes: Tier: S. Rank: 1. Aegis Note: best linear by far; double damage option, FTTC + sustained, insane origin. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=727781522&perks=1840239774,2680121939,2396489472
-dimwishlist:item=727781522&perks=2680121939,2396489472
+dimwishlist:item=727781522&perks=1840239774,1483536627,2396489472
+dimwishlist:item=727781522&perks=1483536627,2396489472
 dimwishlist:item=727781522&perks=1840239774,2396489472
 dimwishlist:item=727781522&perks=2396489472
 
 // Eyes Unveiled
 //notes: Tier: S. Rank: 1. Aegis Note: best linear by far; double damage option, FTTC + sustained, insane origin. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=4173311704&perks=1840239774,2680121939,2396489472
-dimwishlist:item=4173311704&perks=2680121939,2396489472
+dimwishlist:item=4173311704&perks=1840239774,1483536627,2396489472
+dimwishlist:item=4173311704&perks=1483536627,2396489472
 dimwishlist:item=4173311704&perks=1840239774,2396489472
 dimwishlist:item=4173311704&perks=2396489472
 
 // Eyes Unveiled
 //notes: Tier: S. Rank: 1. Aegis Note: best linear by far; double damage option, FTTC + sustained, insane origin. Origin Trait: Heretical Behavior. Source: Pit of Heresy
-dimwishlist:item=282549639&perks=1840239774,2680121939,2396489472
-dimwishlist:item=282549639&perks=2680121939,2396489472
+dimwishlist:item=282549639&perks=1840239774,1483536627,2396489472
+dimwishlist:item=282549639&perks=1483536627,2396489472
 dimwishlist:item=282549639&perks=1840239774,2396489472
 dimwishlist:item=282549639&perks=2396489472
 
@@ -22140,14 +22140,14 @@ dimwishlist:item=393652859&perks=2077819806,2890807135,3640170453,3764420437,429
 
 // Bequest
 //notes: Tier: A. Rank: 8. Aegis Note: insane damage profile frame, lacks true double damage but probably best overall damage sword. Origin Trait: Bray Inheritance. Source: Deep Stone Crypt
-dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3966416502,3201496230,1089671869,3708227201,766321425
-dimwishlist:item=3366545721&perks=269888150,1749209109,3966416502,3201496230,1089671869,3708227201,766321425
-dimwishlist:item=3366545721&perks=3666208348,1749209109,3966416502,3201496230,1089671869,3708227201,766321425
-dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3966416502,3201496230,1089671869,3708227201
-dimwishlist:item=3366545721&perks=1749209109,3966416502,3201496230,1089671869,3708227201,766321425
-dimwishlist:item=3366545721&perks=269888150,1749209109,3966416502,3201496230,1089671869,3708227201
-dimwishlist:item=3366545721&perks=3666208348,1749209109,3966416502,3201496230,1089671869,3708227201
-dimwishlist:item=3366545721&perks=1749209109,3966416502,3201496230,1089671869,3708227201
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3966416502,1089671869,3708227201,3201496230,766321425
+dimwishlist:item=3366545721&perks=269888150,1749209109,3966416502,1089671869,3708227201,3201496230,766321425
+dimwishlist:item=3366545721&perks=3666208348,1749209109,3966416502,1089671869,3708227201,3201496230,766321425
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3966416502,1089671869,3708227201,3201496230
+dimwishlist:item=3366545721&perks=1749209109,3966416502,1089671869,3708227201,3201496230,766321425
+dimwishlist:item=3366545721&perks=269888150,1749209109,3966416502,1089671869,3708227201,3201496230
+dimwishlist:item=3366545721&perks=3666208348,1749209109,3966416502,1089671869,3708227201,3201496230
+dimwishlist:item=3366545721&perks=1749209109,3966416502,1089671869,3708227201,3201496230
 
 // Stryker's Sure-Hand
 //notes: Tier: A. Rank: 9. Aegis Note: niche kill stacking double damage roll, held back by bad frame but otherwise interesting. Origin Trait: Forge's Kin. Source: Arena Ops
@@ -23640,14 +23640,14 @@ dimwishlist:item=1180270693&perks=2363751990,3913600130
 dimwishlist:item=1180270693&perks=3913600130
 
 // Refurbished A499
-//notes: Tier: S. Rank: 1. Aegis Note: first of its kind; powerful archetype with mediocre 1st column. Origin Trait: Accelerated Assault. Source: Tharsis Outpost
+//notes: Tier: S. Rank: 1. Aegis Note: first of its kind; powerful archetype with mediocre 1st column. Origin Trait: Accelerated Assault. Source: Renegades
 dimwishlist:item=3661051060&perks=1840239774,3230963543,2579169598,2289534249,1365187766,3764420437,968510818
 dimwishlist:item=3661051060&perks=3230963543,2579169598,2289534249,1365187766,3764420437,968510818
 dimwishlist:item=3661051060&perks=1840239774,2579169598,2289534249,1365187766,3764420437,968510818
 dimwishlist:item=3661051060&perks=2579169598,2289534249,1365187766,3764420437,968510818
 
 // Refurbished A499
-//notes: Tier: S. Rank: 1. Aegis Note: first of its kind; powerful archetype with mediocre 1st column. Origin Trait: Accelerated Assault. Source: Tharsis Outpost
+//notes: Tier: S. Rank: 1. Aegis Note: first of its kind; powerful archetype with mediocre 1st column. Origin Trait: Accelerated Assault. Source: Renegades
 dimwishlist:item=593808239&perks=1840239774,3230963543,2579169598,2289534249,1365187766,3764420437,968510818,2697390518
 dimwishlist:item=593808239&perks=3230963543,2579169598,2289534249,1365187766,3764420437,968510818,2697390518
 dimwishlist:item=593808239&perks=1840239774,2579169598,2289534249,1365187766,3764420437,968510818,2697390518
